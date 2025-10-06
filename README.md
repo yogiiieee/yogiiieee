@@ -63,6 +63,7 @@
 ###
 
 <p align="left">
+📧 buddhiwantyogiraj@gmail.com<br>
 💼 <a href="https://linkedin.com/in/yogiraj-buddhiwant">LinkedIn</a><br>
 🧩 <a href="https://leetcode.com/yogiraj-buddhiwant">LeetCode</a>
 </p>
